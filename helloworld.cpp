@@ -1,4 +1,4 @@
-// helloworld.cpp : 定义控制台应用程序的入口点。
+// helloworld.cpp : 锟斤拷锟斤拷锟斤拷锟斤拷台应锟矫筹拷锟斤拷锟斤拷锟斤拷锟节点。
 //
 
 #include "stdafx.h"
@@ -7,7 +7,7 @@
 using namespace std;
 int main(int argc, _TCHAR* argv[])
 {   
-	cout<<"Hello World "<<"I am Mark"<<endl;
+	cout<<"Hello World "<<"I am Mike"<<endl;
 	system("pause");
 	return 0;
 }
