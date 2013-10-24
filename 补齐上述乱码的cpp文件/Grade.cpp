@@ -1,4 +1,4 @@
-#include "Grade.h"
+ï»¿#include "Grade.h"
 #include<iostream>
 using namespace std;
 Grade::Grade(void)
@@ -10,7 +10,7 @@ Grade::~Grade(void)
 }
 void Grade::setgrade()
 {
-	  cout<<"ÇëÊäÈëÑ§ÉúµÄ³É¼¨"<<endl;
+	  cout<<"è¯·è¾“å…¥å­¦ç”Ÿçš„æˆç»©"<<endl;
 	  cin>>this->Caddgradate;
 }
 int Grade::getgrade()

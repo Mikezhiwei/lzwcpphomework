@@ -1,11 +1,11 @@
-#include<iostream>
+ï»¿#include<iostream>
 #include"StuM.h"
 using namespace std;
 int main(int argc,int * __argv[])
 {  
 	  StuM *stu=new StuM();
 	  stu->start();
-	  cout<<"¸ÐÐ»Ê¹ÓÃ"<<endl;
+	  cout<<"æ„Ÿè°¢ä½¿ç”¨"<<endl;
 	  system("pause");
 	  delete stu;
 	  return 0;
