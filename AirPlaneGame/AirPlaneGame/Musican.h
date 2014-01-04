@@ -4,7 +4,7 @@ class Musican:sf::Music
 {
 public:
 	
-	sf::Music BackGround;
+	static sf::Music BackGround;
 	void loadsound();
 };
 
